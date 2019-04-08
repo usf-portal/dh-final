@@ -13,6 +13,10 @@ Department of History<br />
 
 ---
 
+**[View the repository in GitHub](https://github.com/usf-portal/hacking-historical-texts-final)**
+
+---
+
 {% include nav.html %}
 
 ---

@@ -13,6 +13,10 @@ Department of History<br />
 
 ---
 
+**[View the template on a live site here](https://theportus.github.io/hacking-historical-texts-final)**
+
+---
+
 {% include nav.html %}
 
 ---
