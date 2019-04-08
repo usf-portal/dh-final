@@ -1,4 +1,4 @@
-# Problems and Possibilities
+# Reflections
 
 This is sort of your final thoughts, a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
 
