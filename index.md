@@ -29,24 +29,18 @@ See the [Course Workbook Project Page](https://theportus.github.io/hacking-histo
 
 ---
 
-## Files To Edit
+## Getting a Copy and Renaming the Repository
 
-```sh
+To get started, you need to fork your own copy of this repository
 
-# Intro pages, one for the repo, one for the site. You can make them identical
-README.md # This file, which is displayed on the GitHub repository page
-index.md # This is the homepage of your site
-
-# Configuration and credit files. Edit with your team's info
-_config.yml # Edit with your title/description info, used when building site
-CITATION.cff # A machine-readable citation file, edit with your info
-
-# Where to put your own files
-pages/*.md # The folder containing the rest of your pages (except index.md)
-assets/images/ # Put your images here
-assets/data/ # Put any data you want to include here (no files over 30mb)
-
-```
+1. Make sure you are on the homepage for [this repo](https://github.com/usf-portal/hacking-historical-texts-final)
+2. Click the 'Fork' button, near the top right of the page, to the right of the repository title.
+3. That's it, now you have your own copy. If you notice the title of the page, you are now at *your* version of the repo located at *your* account.
+4. If you can't find it, your repo should be at `https://github.com/your-username/hacking-historical-texts-final`
+5. You should change the name of the repository, to do this...
+    1. Go to your repository homepage
+    2. Click the `Settings` tab
+    3. Under `Repository Name` put your project name. GitHub general ettiquite is to use lower case and name `your-repository-like-this`
 
 ---
 
@@ -55,9 +49,10 @@ assets/data/ # Put any data you want to include here (no files over 30mb)
 To create the website from this repository, follow these steps...
 
 1. Go to your repository homepage
-2. Click the 'Settings' tab
-3. Scroll down to the 'GitHub Pages' section
-4. Under 'Source' click the dropdown menu and choose 'master branch'
+2. Click the `Settings` tab
+3. Change the name of the repository to represent your project
+4. Scroll down to the `GitHub Pages` section
+5. Under `Source` click the dropdown menu and choose `master branch`
 
 **See your site at your-username.github.io/your-repo-name**
 
@@ -70,10 +65,33 @@ To create the website from this repository, follow these steps...
 To change the look of the website, follow these steps...
 
 1. Go to your repository homepage
-2. Click the 'Settings' tab
-3. Scroll down to the 'GitHub Pages' section
-4. Under 'Theme Chooser' click the dropdown menu
+2. Click the `Settings` tab
+3. Scroll down to the `GitHub Pages` section
+4. Under `Theme Chooser` click the dropdown menu
 5. Follow on-page instructions to preview and select your theme
+
+---
+
+## Files To Edit
+
+Make sure you edit these files with your own data
+
+```sh
+
+# Intro pages, one for the repo, one for the site. You can make them identical
+README.md # This file, which is displayed on the GitHub repository page
+index.md # This is the homepage of your site
+
+# Configuration and credit files. Edit with your team's info
+_config.yml # Edit with your title/credit info, used when building site
+CITATION.cff # A machine-readable citation file, edit with your info
+
+# Where to put your own files
+pages/*.md # The folder containing the rest of your pages (except index.md)
+assets/images/ # Put your images here
+assets/data/ # Put any data you want to include here (no files over 30mb)
+
+```
 
 ---
 
