@@ -1,0 +1,19 @@
+title: Hacking Historical Texts Final Project Template (Change Me)
+description: A description of your project (Change Me)
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CHANGELOG.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - LICENSE
+  - PULL_REQUEST_TEMPLATE.md
+  - README.md
+theme: jekyll-theme-cayman
+source: ./pages
+collections_dir: ./pages
+includes_dir: _includes
