@@ -1,12 +1,10 @@
 # Hacking Historical Texts Final Project Template
 
-{% include css.html %}
-
-![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
+![Title Image](assets/images/intro-image.png)
 
 ## Instructor and Author
 
-[David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
+[David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.net](http://thePortus.net)<br />
 Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
