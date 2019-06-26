@@ -1,4 +1,4 @@
-# Hacking Historical Texts Final Project Template
+# Digital Humanities Final
 
 {% include css.html %}
 
@@ -6,7 +6,7 @@
 
 ## Instructor and Author
 
-[David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
+[David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.net](http://thePortus.net)<br />
 Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
