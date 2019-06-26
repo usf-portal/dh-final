@@ -1,4 +1,4 @@
-# Hacking Historical Texts Final Project Template
+# Digital Humanities Final
 
 ![Title Image](assets/images/intro-image.png)
 
