@@ -1,8 +1,8 @@
 cff-version: 1.0.3
 message: If you use this software, please cite it as below.
 authors:
-  - family-names: Rappa
-    given-names: Michael
+  - family-names: Rappa Miller
+    given-names: Michael Thomas 
 title: usa-migration
 version: 1.0.0
 date-released: 2019-7-1
