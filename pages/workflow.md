@@ -26,7 +26,7 @@ To put your webscraper recipe online...
 *If you post a recipe, you should also post instructions on how to import it, don't assume the reader knows!*
 
 1. Open your sitemap.
-2. Click the middle menu that says "Sitemap <<your sitemap name>>".
+2. Click the middle menu that says "Sitemap <your sitemap name>".
 3. Click "Export Sitemap" and copy the JSON data from the form.
 4. To help readability, go to [JSON Formatter](https://jsonformatter.curiousconcept.com/).
 5. Paste the raw JSON, click "Process", then copy the output.
