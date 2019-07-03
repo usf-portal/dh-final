@@ -1,12 +1,17 @@
 # Workflow
 
-Describe your overall workflow here. Think of this as something like when a scientific paper describes their process. The idea is *repeatability*. People need to know how they can get a copy of the data. If you chopped up the data, altered it, or joined it with other data sets they need to know that too.
+More than a simple 'workflow', this should essentially be a **tutorial** to your reader how to do exactly what you did (whether or not the results were great). Remember: I am not your audience... nor are only DH specialists. The internet is your audience.
+
+[Here is a student example of a workflow](https://confederate-memorials-project.readthedocs.io/en/latest/processes/).
+
+Think of this as something like when a scientific paper describes their process. The idea is *repeatability*. People need to know how they can get a copy of the data. If you chopped up the data, altered it, or joined it with other data sets they need to know that too.
 
 Discuss (in detail) the processes of
 
 * Getting the data
 * Cleaning/altering the data
 * Visualizing the data
+* **ANY DEADENDS YOU WENT DOWN** (so that others can avoid them).
 * Discussing and sharing results with group members
 
 ---
