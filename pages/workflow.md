@@ -23,14 +23,17 @@ Take plenty of screenshots to document your process...
 
 To put your webscraper recipe online...
 
-1. Oopen your sitemap
-2. Click the middle menu that says "Sitemap <<your sitemap name>>"
-3. Click "Export Sitemap" and copy the JSON data from the form
-4. To help readability, go to [JSON Formatter](https://jsonformatter.curiousconcept.com/)
-5. Paste the raw JSON, click "Process", then copy the output
+*If you post a recipe, you should also post instructions on how to import it, don't assume the reader knows!*
+
+1. Open your sitemap.
+2. Click the middle menu that says "Sitemap <<your sitemap name>>".
+3. Click "Export Sitemap" and copy the JSON data from the form.
+4. To help readability, go to [JSON Formatter](https://jsonformatter.curiousconcept.com/).
+5. Paste the raw JSON, click "Process", then copy the output.
 6. Select and copy the output and put it into a block quote (using the triple backtick ```````).
 7. To enable syntax coloring, write the word `json` immediately afterward.
 8. To see an example, look at the raw code for the blockquote below.
+	
 
 ```json
 {  
