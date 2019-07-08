@@ -4,9 +4,12 @@
 
 ## Project Credits
 
-* Put your group member's credits here
-* Link to any emails or github accounts (if you want)
-* Leave the credits at the bottom
+* Michael Rappa
+		* Replace with your description of your role in the project. 
+* [Thomas Miller](mailto:tmiller26@mail.usf.edu)
+		* Placeholder
+* Faris Chaoui
+		* Placeholder
 
 ---
 
