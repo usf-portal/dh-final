@@ -6,7 +6,7 @@
 
 * [Stephen Truman](mailto:s.tru989@gmail.com)
    * Replace with your discription of role in the project
-* Mary Elliott
+* [Mary Elliott](mailto:marye1@mail.usf.edu)
    *Placeholder
 * Joseph Perez
    *Placeholder
