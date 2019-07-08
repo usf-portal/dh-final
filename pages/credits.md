@@ -4,9 +4,12 @@
 
 ## Project Credits
 
-* Put your group member's credits here
-* Link to any emails or github accounts (if you want)
-* Leave the credits at the bottom
+* [Stephen Truman](mailto:s.tru989@gmail.com)
+		* Replace with your discription of role in the project
+* Mary Elliott
+		*Placeholder
+* Joseph Perez
+		*Placeholder
 
 ---
 
