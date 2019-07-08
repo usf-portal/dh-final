@@ -9,7 +9,7 @@
 * [Mary Elliott](mailto:marye1@mail.usf.edu)
    *Placeholder
 * [Joseph Perez](mailto:joemperez85@gmail.com)
-   * Placeholder
+   * visualization 
 
 ---
 
