@@ -5,11 +5,11 @@
 ## Project Credits
 
 * [Stephen Truman](mailto:s.tru989@gmail.com)
-		* Replace with your discription of role in the project
+   * Replace with your discription of role in the project
 * Mary Elliott
-		*Placeholder
+   *Placeholder
 * Joseph Perez
-		*Placeholder
+   *Placeholder
 
 ---
 
