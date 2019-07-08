@@ -8,8 +8,8 @@
    * Replace with your discription of role in the project
 * [Mary Elliott](mailto:marye1@mail.usf.edu)
    *Placeholder
-* Joseph Perez
-   *Placeholder
+* Joseph Perez (mailto:joemperez85@gmail.com)
+   * Placeholder
 
 ---
 
