@@ -5,7 +5,7 @@
 ## Project Credits
 
 * Michael Rappa
-    * My role in the project will be in the position of the Project Manager. I will make sure everything in the project goes smoothly by facilitating communication within the group, controlling the GitHub, and by making decisions if we reach an impasse at any point in the project. The parts of the project that I will be responsible for writing will be the “introduction” and the “next steps”. In addition to the more formal responsibilities I am taking, I will continue to provide guidance to the group in accordance with what our overarching theme is, and will try to project that vision onto the project at all levels
+    * My role in the project will be in the position of the Project Manager. I will make sure everything in the project goes smoothly by facilitating communication within the group, controlling the GitHub, and by making decisions if we reach an impasse at any point in the project. The parts of the project that I will be responsible for writing will be the “introduction” and the “next steps”. In addition to the more formal responsibilities I am taking, I will continue to provide guidance to the group in accordance with what our overarching theme is, and will try to project that vision onto the project at all levels.The help I will need from the group would be their continued enthusiasm and teamwork towards completing the project, as well as regular updates on things like progress, problems, ideas, etc.
 * [Thomas Miller](mailto:tmiller26@mail.usf.edu)
     * Placeholder
 * Faris Chaoui
