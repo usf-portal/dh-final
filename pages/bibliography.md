@@ -1,7 +1,6 @@
 # Bibliography
 
-1. List your bibliography items here, whether historical and/or digital in nature, here.
-2. It should be in [Chicago Manual of Style](chicagomanualofstyle.org)
-3. Remember to *italicize* and **bold** as appropriate.
-4. See example below
-5. Clinton, Kevin. *Eleusis, the Inscriptions on Stone: Documents of the Sanctuary of the Two Goddesses and Public Documents of the Deme*. Vol. 1a: Text. Athens: The Archaeological Society at Athens, 2008. 
+1. Galka, Max. 2016. Here's Everyone Who's Immigrated to the U.S. Since 1820. May 3. http://metrocosm.com/animated-immigration-map/.
+2.Policy, Migration. 2013. U.S. Immigration Trends. January 23. https://www.migrationpolicy.org/programs/data-hub/us-immigration-trends#lep.
+3.ProCon.Org. 2017. Historical Timeline: History of Legal and Illegal Immigration to the United States. January 30. https://immigration.procon.org/view.timeline.php?timelineID=000023.
+
