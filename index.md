@@ -4,12 +4,12 @@
 
 ![Home Image]({{ site.baseurl }}/assets/images/Wager's_Action_off_Cartagena,_28_May_1708.jpg)
 
+## Pirate interactions on the Slave Economy 
+
+
+
 ## Instructor and Author
 
-[David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.net](http://thePortus.net)<br />
-Instructor of Ancient History and Digital Humanities<br />
-Department of History<br />
-[University of South Florida](https://github.com/usf-portal)
 
 ---
 
