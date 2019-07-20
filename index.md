@@ -2,7 +2,7 @@
 
 {% include css.html %}
 
-![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
+![Wager's_Action_off_Cartagena,_28_May_1708.jpg]({{ site.baseurl }}/assets/images/intro-image.png)
 
 ## Instructor and Author
 
