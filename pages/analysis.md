@@ -90,3 +90,17 @@ This image is a  more clear representation of the ships and the results that fol
 once Pirates and Privateers took control of the vessels. The picture shows the changes 
 did not occur until the ship reached the region and ported in a different location than 
 non-pirated ships.
+
+---
+
+![image](/assets/images/Average%20Price%20of%20Slaves%20Over%20Time.jpg)
+![image](/assets/images/Pirate%20Slave%20activity%20.png)
+
+These two images compare the price of slaves between 1804-1861 and the
+overall sale of pirated ships from 1700-1827. The standard tread is that, 
+by year, there was no major significant increase to sold pirated ships when 
+comparing the drop and rise on the cost of slave worth. The image shows pirates
+were not investing considerable energy to gather wealth by the slave trade. 
+Moreover, the representation does indicate the random interaction between pirates
+and slave ships. The number of slaves captured and sold by Pirates is deficient 
+compared to the significant traffic of slave ships in the area.
