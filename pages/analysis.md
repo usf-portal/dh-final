@@ -60,3 +60,12 @@ compared to themasses. The interdiction of ships seems to have occurred closer t
 the Caribbean and West Indies region.  	
 	
 ---
+
+![image](/assets/images/4.%20Main%20Ports%20of%20Drop%20off.png)
+
+A clear visual of the ports where the slaves were dropped off is available in this
+image. When comparing both photos of the pirated and non-pirated drop off ports, it 
+seems there are no significant changes. Looking a little more closely, one can see
+that the pirated ships are spread out more widely in the region and not largely focused 
+like the red dots. The larger dots represent the level of drop off. The larger the dots,
+the more activity took place in the port.	
