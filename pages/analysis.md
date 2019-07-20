@@ -69,3 +69,15 @@ seems there are no significant changes. Looking a little more closely, one can s
 that the pirated ships are spread out more widely in the region and not largely focused 
 like the red dots. The larger dots represent the level of drop off. The larger the dots,
 the more activity took place in the port.	
+
+---
+
+![image](/assets/images/5.%20Distibution%20amount%20.png)
+
+The most significant change in the region is where the pirated ships dropped off 
+their slaves for sale compared to non-pirated vessels. This image shows there was 
+a market for pirated slave ships in the West Indies. The standard slave trade ships 
+are equally distributed in the slave markets. The larger the dots, the more vessels 
+ported and dropped off their slaves. The average slave trade led the ships to Rio in 
+Brazil and La Habana, Cuba. In pirated ships, the data shows the ports were more 
+concentrated and spread out.
