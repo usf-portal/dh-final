@@ -1,6 +1,6 @@
 # Digital Humanities Final
 
-![Wager's_Action_off_Cartagena,_28_May_1708.jpg](assets/images/intro-image.png)
+![Home Image](assets/images/Wager's_Action_off_Cartagena,_28_May_1708.jpg)
 
 ## Instructor and Author
 
