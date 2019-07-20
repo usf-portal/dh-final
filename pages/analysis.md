@@ -104,3 +104,15 @@ were not investing considerable energy to gather wealth by the slave trade.
 Moreover, the representation does indicate the random interaction between pirates
 and slave ships. The number of slaves captured and sold by Pirates is deficient 
 compared to the significant traffic of slave ships in the area.
+
+---
+
+![image](/assets/images/Pirates%20and%20actions%20with%20slaves.png)
+
+The Relative Density comparing all pirated ships and its cargo shows that there
+was not a significant influx to ships with slaves and ships without slaves. As 
+described above, the region was covered with ships that carried slave in around 
+the slave market. The lack of significant to ships with and without slaves shows 
+that pirating slaves were not the main focus of pirates and privateers.
+
+---
