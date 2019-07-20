@@ -1,5 +1,6 @@
 # Analysis
 ---
+	
 	The visualization on this page represents the documented interference
 on the slave trade by privateers and pirates between 1699-1827. The primary 
 geographical focus is in the Caribbean and West Indies region. These regions 
@@ -16,6 +17,7 @@ trade if not provided by the captive ships. The images below demonstrate the
 disparities and theory.
 
 ---
+
 ![image](/assets/images/1.%20Origin%20Ports.png)
 	
 	This image represents most of the documented ports where slave 
@@ -29,6 +31,7 @@ impeded. The theory is that to this point pirates and privateers were more
 opportunistic scavengers of ships and less methodical in their selection
 
 ---
+
 ![image](/assets/images/2.%20To%20slave%20ports.png)
 
 	The path of travel represents paths as the crow flies, although 
@@ -43,6 +46,7 @@ On this image the ships left their home ports and headed to the ports where
 they will be loading slaves onboard. 
 
 ---
+
 ![image](/assets/images/3.%20To%20slave%20drop%20off%20point.png)
 
 	The slaves are picked up in Africa and journeyed to the Caribbean 
