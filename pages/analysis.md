@@ -14,4 +14,4 @@ You should also make sure to be a cautious scholar, and to think about the limit
 
 You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
 
-! [Data Analysis](/assets/images/1.Origin Ports.png)
+![Analysis](/assets/images/1.Origin Ports.png)
