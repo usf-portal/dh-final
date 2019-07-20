@@ -1,7 +1,7 @@
 # Analysis
 ---
 	
-	The visualization on this page represents the documented interference
+The visualization on this page represents the documented interference
 on the slave trade by privateers and pirates between 1699-1827. The primary 
 geographical focus is in the Caribbean and West Indies region. These regions 
 are where the most slave trade activity took place. The original hypothesis 
@@ -11,7 +11,7 @@ rade market and economically effected countries that participated in the slave
 trade. As per the documented information, the slave trade was extremely expansive
 that the incursion by privateers had little to no effect on the market itself. 
 
-	The images do raise questions to the effects privateers and pirates had on smaller
+The images do raise questions to the effects privateers and pirates had on smaller
 countries. These smaller states would not have had such availability to the slave 
 trade if not provided by the captive ships. The images below demonstrate the 
 disparities and theory.
@@ -20,7 +20,7 @@ disparities and theory.
 
 ![image](/assets/images/1.%20Origin%20Ports.png)
 	
-	This image represents most of the documented ports where slave 
+This image represents most of the documented ports where slave 
 ships originated. To the left (black dots) the image is of all the ships
 that departed and were never held captive and taken over by privateers or 
 pirates. The image to the right (purple dots) shows the ports where ships
@@ -34,7 +34,7 @@ opportunistic scavengers of ships and less methodical in their selection
 
 ![image](/assets/images/2.%20To%20slave%20ports.png)
 
-	The path of travel represents paths as the crow flies, although 
+The path of travel represents paths as the crow flies, although 
 traveling ships make the paths. The quantity of activity is a representation 
 of over one hundred years but it is easy to see the differences between the 
 magnitude of business conducted by ships that were never affected by pirates 
@@ -49,7 +49,7 @@ they will be loading slaves onboard.
 
 ![image](/assets/images/3.%20To%20slave%20drop%20off%20point.png)
 
-	The slaves are picked up in Africa and journeyed to the Caribbean 
+The slaves are picked up in Africa and journeyed to the Caribbean 
 and West Indies region. Until this point, there has been little to no change
 in pattern comparing ships never captured to those that were eventually affected 
 by privateers or pirates. This image represents the path the vessels took to reach
