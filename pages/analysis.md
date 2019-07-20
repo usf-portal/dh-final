@@ -30,7 +30,7 @@
 ---
 ![image](/assets/images/2.%20To%20slave%20ports.png)
 
-	The path of travel represents paths as the crow flies, although traveling ships make the 
+		The path of travel represents paths as the crow flies, although traveling ships make the 
 	paths. The quantity of activity is a representation of over one hundred years but it is 
 	easy to see the differences between the magnitude of business conducted by ships that were
 	never affected by pirates (left image, black lines) and the vessels that will eventually 
@@ -42,7 +42,7 @@
 ---
 ![image](/assets/images/3.%20To%20slave%20drop%20off%20point.png)
 
-	The slaves are picked up in Africa and journeyed to the Caribbean and West Indies region. 
+		The slaves are picked up in Africa and journeyed to the Caribbean and West Indies region. 
 	Until this point, there has been little to no change in pattern comparing ships never captured 
 	to those that were eventually affected by privateers or pirates. This image represents the path 
 	the vessels took to reach the slave market ports. The change in behavior occurs in this image. 
