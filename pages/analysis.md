@@ -116,3 +116,15 @@ the slave market. The lack of significant to ships with and without slaves shows
 that pirating slaves were not the main focus of pirates and privateers.
 
 ---
+
+![image]({{ site.baseurl}}/assets/images/Tableau%20Bars%20.png
+
+There were nine million-plus slaves, documented, were traded and sold in between
+1699-1827 with eight million making it to the slave marker port. Of the over one 
+million slaves lost, only a small fraction was due to pirates and privateers. In 
+this image, you can see that more slaves lost to sinking ship or unknown reason than
+by ships captured by pirates. 
+
+Although the data may not be ironclad,  the massive difference in sum demonstrates 
+the pirating of slaves caused no significant effect on the slave market or the 
+countries that participated in the practice.
