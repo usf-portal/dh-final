@@ -1,4 +1,4 @@
-# Digital Humanities Final
+# Pirates and the Slave Trade
 
 {% include css.html %}
 
