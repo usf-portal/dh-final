@@ -117,7 +117,7 @@ that pirating slaves were not the main focus of pirates and privateers.
 
 ---
 
-![image]({{ site.baseurl}}/assets/images/Tableau%20Bars%20.png
+![image]({{ site.baseurl}}/assets/images/Tableau%20Bars%20.png)
 
 There were nine million-plus slaves, documented, were traded and sold in between
 1699-1827 with eight million making it to the slave marker port. Of the over one 
