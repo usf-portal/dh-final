@@ -18,7 +18,7 @@ disparities and theory.
 
 ---
 
-![image](/assets/images/1.%20Origin%20Ports.png)
+![image]({{ site.baseurl}}/assets/images/1.%20Origin%20Ports.png)
 	
 This image represents most of the documented ports where slave 
 ships originated. To the left (black dots) the image is of all the ships
@@ -32,7 +32,7 @@ opportunistic scavengers of ships and less methodical in their selection
 
 ---
 
-![image](/assets/images/2.%20To%20slave%20ports.png)
+![image]({{ site.baseurl}}/assets/images/2.%20To%20slave%20ports.png)
 
 The path of travel represents paths as the crow flies, although 
 traveling ships make the paths. The quantity of activity is a representation 
@@ -47,7 +47,7 @@ they will be loading slaves onboard.
 
 ---
 
-![image](/assets/images/3.%20To%20slave%20drop%20off%20point.png)
+![image]({{ site.baseurl}}/assets/images/3.%20To%20slave%20drop%20off%20point.png)
 
 The slaves are picked up in Africa and journeyed to the Caribbean 
 and West Indies region. Until this point, there has been little to no change
@@ -61,7 +61,7 @@ the Caribbean and West Indies region.
 	
 ---
 
-![image](/assets/images/4.%20Main%20Ports%20of%20Drop%20off.png)
+![image]({{ site.baseurl}}/assets/images/4.%20Main%20Ports%20of%20Drop%20off.png)
 
 A clear visual of the ports where the slaves were dropped off is available in this
 image. When comparing both photos of the pirated and non-pirated drop off ports, it 
@@ -72,7 +72,7 @@ the more activity took place in the port.
 
 ---
 
-![image](/assets/images/5.%20Distibution%20amount%20.png)
+![image]({{ site.baseurl}}/assets/images/5.%20Distibution%20amount%20.png)
 
 The most significant change in the region is where the pirated ships dropped off 
 their slaves for sale compared to non-pirated vessels. This image shows there was 
@@ -84,7 +84,7 @@ concentrated and spread out.
 
 ---
 
-![image](/assets/images/Captive%20by%20Pirates.png)
+![image]({{ site.baseurl}}/assets/images/Captive%20by%20Pirates.png)
 
 This image is a  more clear representation of the ships and the results that followed
 once Pirates and Privateers took control of the vessels. The picture shows the changes 
@@ -93,8 +93,8 @@ non-pirated ships.
 
 ---
 
-![image](/assets/images/Average%20Price%20of%20Slaves%20Over%20Time.jpg)
-![image](/assets/images/Pirate%20Slave%20activity%20.png)
+![image]({{ site.baseurl}}/assets/images/Average%20Price%20of%20Slaves%20Over%20Time.jpg)
+![image]({{ site.baseurl}}/assets/images/Pirate%20Slave%20activity%20.png)
 
 These two images compare the price of slaves between 1804-1861 and the
 overall sale of pirated ships from 1700-1827. The standard tread is that, 
@@ -107,7 +107,7 @@ compared to the significant traffic of slave ships in the area.
 
 ---
 
-![image](/assets/images/Pirates%20and%20actions%20with%20slaves.png)
+![image]({{ site.baseurl}}/assets/images/Pirates%20and%20actions%20with%20slaves.png)
 
 The Relative Density comparing all pirated ships and its cargo shows that there
 was not a significant influx to ships with slaves and ships without slaves. As 
