@@ -81,3 +81,12 @@ are equally distributed in the slave markets. The larger the dots, the more vess
 ported and dropped off their slaves. The average slave trade led the ships to Rio in 
 Brazil and La Habana, Cuba. In pirated ships, the data shows the ports were more 
 concentrated and spread out.
+
+---
+
+![image](/assets/images/Captive%20by%20Pirates.png)
+
+This image is a  more clear representation of the ships and the results that followed
+once Pirates and Privateers took control of the vessels. The picture shows the changes 
+did not occur until the ship reached the region and ported in a different location than 
+non-pirated ships.
