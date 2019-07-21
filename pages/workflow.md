@@ -70,7 +70,7 @@ will also be demonstrated.
 
 ![image]({{ site.baseurl}}/assets/images/1. Prep for palladio File demo.png)
 
-* Palladio
+Palladio
 
 1. The information generated using **Webscraper.io** proved data in 
 	Excel format. This allowed the image to be understood in a more plan 
@@ -110,5 +110,20 @@ Palladio continued…
 	results. 
 	
 ***
+
+**Tableau**
+
+![image]({{ site.baseurl}}/assets/images/6a. Tableau working flow.png)
+
+The program **Tableau** was much more user friendly and no change of text file
+was required. The only issue encountered was that unlike **Palladio** you DO need 
+to make sure you have your Latitudes and Longitudes in different columns. By naming 
+them Latitude and Longitude it made the process much easier.**Tableau** recognized 
+the intentions and easily transferred the data.   
+
+![image]({{ site.baseurl}}/assets/images/6.Tableau end result .png)
+
+By having uniformed and clear data **Tableau** made it very easy to display the 
+text into images that were easy to understand. 
 
 
