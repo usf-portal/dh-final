@@ -89,8 +89,6 @@ will also be demonstrated.
 	file. Note: The more organize your input the easier it is for **Palladio** 
 	to read and translate the data. 
 
-***
-
 ![image]({{ site.baseurl}}/assets/images/2. Prep for palladio file Demo.png)
 ![image]({{ site.baseurl}}/assets/images/3. Prep Palladio point ot point.png)
 
