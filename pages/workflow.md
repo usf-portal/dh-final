@@ -108,7 +108,8 @@ will also be demonstrated.
 
 ![image]({{ site.baseurl}}/assets/images/3. Prep Palladio point ot point.png)
 
-	9. This is an example when you use the point to point layer and its final results. 
+	9. This is an example when you use the point to point layer and its final 
+	results. 
 	
 ***
 
