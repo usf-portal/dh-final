@@ -55,7 +55,7 @@ To put your webscraper recipe online...
 
 ***
 
-#**Visualization**
+# **Visualization**
 	
 The information used for the visualization was gathered by using 
 **Webscraper,io** and after a bit of clean up that allowed the generated 
@@ -82,7 +82,7 @@ will also be demonstrated.
 	Note: this method was a one by one location finder method and does take time. 
 	3. Once the coordinates were inputted into Excel they were combined into one 
 	column. For **Palladio** <span style="color:red">Coordinates are read in one 
-	Excel file i.e. |17.973379,-76.758667|</span>. In the program Tableau the 
+	Excel column i.e. |17.973379,-76.758667|</span>. In the program Tableau the 
 	coordinates must be separated into two different columns. 
 	4. The information is double checked and ready to be converted to a **CSV** 
 	file. Note: The more organize your input the easier it is for **Palladio** 
