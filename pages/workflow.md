@@ -52,3 +52,40 @@ To put your webscraper recipe online...
 }
 ```
 
+
+***
+
+Visualization:
+	The information used for the visualization was gathered by using 
+**Webscraper,io** and after a bit of clean up that allowed the generated 
+data to work with other programs the workflow became more manageable. 
+
+Below are the steps taken that will demonstrate how the information generated
+by **Webscraper.io** was used in the site **Palladio** and the results the 
+information visually generated. Farther down the steps for how **Tableau** 
+will also be demonstrated. 
+
+***
+
+![image]({{ site.baseurl}}/assets/images/1. Prep for palladio File demo.png)
+
+* Palladio
+	1. The information generated using **Webscraper.io** proved data in 
+	Excel format. This allowed the image to be understood in a more plan 
+	manner and edited to better fit the needs of the project. 
+	2. After organizing the data and ensuring the information in the Excel 
+	format is what will be needed for visualization, the locations of each 
+	port and/or region had to be located. By using Longitude and Latitude 
+	finder with the help of  Google Earth most of the coordinates were located 
+	for the project with the information provided from **Webscraper.io**. 
+	Note: this method was a one by one location finder method and does take time. 
+	3. Once the coordinates were inputted into Excel they were combined into one 
+	column. For **Palladio** <span style="color:red">Coordinates are read in one 
+	Excel file i.e. |17.973379,-76.758667|</span>. In the program Tableau the 
+	coordinates must be separated into two different columns. 
+	4. The information is double checked and ready to be converted to a **CSV** 
+	file. Note: The more organize your input the easier it is for **Palladio** 
+	to read and translate the data. 
+
+---
+
