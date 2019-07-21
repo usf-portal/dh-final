@@ -55,7 +55,7 @@ To put your webscraper recipe online...
 
 ***
 
-#Visualization
+#**Visualization**
 	
 The information used for the visualization was gathered by using 
 **Webscraper,io** and after a bit of clean up that allowed the generated 
