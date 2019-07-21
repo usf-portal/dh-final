@@ -53,7 +53,7 @@ To put your webscraper recipe online...
 ```
 
 
-***
+---
 
 # **Visualization**
 	
@@ -88,5 +88,28 @@ will also be demonstrated.
 	file. Note: The more organize your input the easier it is for **Palladio** 
 	to read and translate the data. 
 
----
+***
+
+![image]({{ site.baseurl}}/assets/images/2. Prep for palladio file Demo.png)
+
+* Palladio continued…
+	5. Once step 4 is complete and the data is organized in a **Palladio** easy to
+	understand manner the Excel file is ready to be converted to a **CSV** file. It
+	is best to simplify your data to its most raw form and title each column –Place 
+	and Coordinate- This allows **Palladio** to read the data as intended. 
+	6. Go on the **Palladio** website and simply drop your **CSV** file on to the site.
+	The orange arrows show where to drop off the file. 
+	7. **Palladio** will bring up the work screen and any possible issues you might 
+	have with your data. The more simple and consistent your data the less issues you 
+	will have with **Palladio**.
+	8. Once the Data is submitted and you click on Map (Top Left Corner) this screen 
+	will pop up. You will click on the Top right box and load your data to visualize
+	your input. This is an example of the point manger that **Palladio** offers. 
+
+![image]({{ site.baseurl}}/assets/images/3. Prep Palladio point ot point.png)
+
+	9. This is an example when you use the point to point layer and its final results. 
+	
+***
+
 
