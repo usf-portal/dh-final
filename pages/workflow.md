@@ -71,6 +71,7 @@ will also be demonstrated.
 ![image]({{ site.baseurl}}/assets/images/1. Prep for palladio File demo.png)
 
 * Palladio
+
 1. The information generated using **Webscraper.io** proved data in 
 	Excel format. This allowed the image to be understood in a more plan 
 	manner and edited to better fit the needs of the project. 
@@ -91,8 +92,10 @@ will also be demonstrated.
 ***
 
 ![image]({{ site.baseurl}}/assets/images/2. Prep for palladio file Demo.png)
+![image]({{ site.baseurl}}/assets/images/3. Prep Palladio point ot point.png)
 
-Palladio continued…
+* Palladio continued…
+
 5. Once step 4 is complete and the data is organized in a **Palladio** easy to
 	understand manner the Excel file is ready to be converted to a **CSV** file. It
 	is best to simplify your data to its most raw form and title each column –Place 
@@ -105,9 +108,6 @@ Palladio continued…
 8. Once the Data is submitted and you click on Map (Top Left Corner) this screen 
 	will pop up. You will click on the Top right box and load your data to visualize
 	your input. This is an example of the point manger that **Palladio** offers. 
-
-![image]({{ site.baseurl}}/assets/images/3. Prep Palladio point ot point.png)
-
 9. This is an example when you use the point to point layer and its final 
 	results. 
 	
