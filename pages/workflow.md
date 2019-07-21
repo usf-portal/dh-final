@@ -92,7 +92,7 @@ will also be demonstrated.
 ![image]({{ site.baseurl}}/assets/images/2. Prep for palladio file Demo.png)
 ![image]({{ site.baseurl}}/assets/images/3. Prep Palladio point ot point.png)
 
-* Palladio continued…
+Palladio continued…
 
 5. Once step 4 is complete and the data is organized in a **Palladio** easy to
 	understand manner the Excel file is ready to be converted to a **CSV** file. It
