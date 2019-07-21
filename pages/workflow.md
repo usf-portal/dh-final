@@ -94,19 +94,19 @@ Palladio
 
 Palladio continued…
 
-5. Once step 4 is complete and the data is organized in a **Palladio** easy to
+*5. Once step 4 is complete and the data is organized in a **Palladio** easy to
 	understand manner the Excel file is ready to be converted to a **CSV** file. It
 	is best to simplify your data to its most raw form and title each column –Place 
 	and Coordinate- This allows **Palladio** to read the data as intended. 
-6. Go on the **Palladio** website and simply drop your **CSV** file on to the site.
+*6. Go on the **Palladio** website and simply drop your **CSV** file on to the site.
 	The orange arrows show where to drop off the file. 
-7. **Palladio** will bring up the work screen and any possible issues you might 
+*7. **Palladio** will bring up the work screen and any possible issues you might 
 	have with your data. The more simple and consistent your data the less issues you 
 	will have with **Palladio**.
-8. Once the Data is submitted and you click on Map (Top Left Corner) this screen 
+*8. Once the Data is submitted and you click on Map (Top Left Corner) this screen 
 	will pop up. You will click on the Top right box and load your data to visualize
 	your input. This is an example of the point manger that **Palladio** offers. 
-9. This is an example when you use the point to point layer and its final 
+*9. This is an example when you use the point to point layer and its final 
 	results. 
 	
 ***
@@ -126,4 +126,5 @@ the intentions and easily transferred the data.
 By having uniformed and clear data **Tableau** made it very easy to display the 
 text into images that were easy to understand. 
 
+---
 
