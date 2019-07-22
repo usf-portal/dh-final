@@ -2,7 +2,6 @@
 
 {% include nav.html %}
 
-{% include css.html %}
 
 ![Home Image]({{ site.baseurl }}/assets/images/Wager's_Action_off_Cartagena,_28_May_1708.jpg)
 
