@@ -4,7 +4,11 @@ This is where you where you discuss any (initial) conclusions you have come to. 
 
 If you want to add an image you can do it like this....
 
-![Example Image]({{ site.baseurl }}/assets/images/example-image.png)
+![Example Image]({{ site.baseurl }}/assets/images/Pre WWII Immigration.png
+
+![Example Image]({{ site.baseurl }}/assets/images/Area Chart Laws.png
+
+![Example Image]({{ site.baseurl }}/assets/images/Major Events that effected Immigration.png
 
 Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
 
