@@ -1,6 +1,6 @@
 # Sources
 
-This is where your source analysis of any/all data should go. Delete this introductory material when submitting your assignment.
+![Title Image](assets/images/ImmigrationDataWebsite.png)
 
 This source analysis should discuss whatever source(s) you used for this project.
 
