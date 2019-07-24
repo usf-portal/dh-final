@@ -1,10 +1,11 @@
 # Sources
 
-![Title Image](assets/images/ImmigrationDataWebsite.png)
+![Migration Policy Institute](https://github.com/Michaelrappa/usa-migration/blob/master/assets/images/ImmigrationDataWebsite.png)
 
-This source analysis should discuss whatever source(s) you used for this project.
+This source found on the MPI website was a number of databases available that became the backbone of the project. The data supplied us with immigration information from every country from the year 1820 to 2017. The organization is trasparent on the sources of their data which they gathered from the Department of Homeland Security and the Office of Immigration. It is important to note that the Department of Homeland Security is a relatively new department coming into fruition in 2002 under George W. Bush. This organization claims to be a nonpartisan organization with a mission focused on improving immigration policy. This was important as to avoid using biased data as much as possible but the data gathered is going to be biased regardless towards the mission of MPI. However, this set of data proved to be useful for the project to analyze trends in immigration. Because the data was created for humans to read, they had to be slightly modified for Tablaeu to read. The website already displayed visualizations on immigration but lumped all of the countries into one graph without catagorizing the countries. 
 
-See the [README.md](../README.md) file for information on how to submit this assignment.
+Policy, Migration. 2013. "U.S. Immigration Trends." January 23. https://www.migrationpolicy.org/programs/data-hub/us-immigration-trends#lep.
+
 
 **You SHOULD revise your source analysis if you already did one for the given website.**
 ---
