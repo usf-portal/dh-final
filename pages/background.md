@@ -2,9 +2,8 @@
 
 ---
 
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
+The Triangular trade was by far one of the worlds most important trade route. The route funnelled the foundations of slave labor into much of the carribean and the southern United States. However, has the slave trade ever been infiltrated by acts of piracy, and to what extent did piracy hinder the progression of the Triangular trade? With our thesis in tow, we aim to understand the economic effect piracy had on Slave Voyages.
 
-YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
 ---
 
