@@ -4,11 +4,6 @@
 ---
 Our project will look at immigration into the United States. We will look at the major countries that have come to the United States and use data visualization to analyze trends in relation to major world events and immigration laws. The project will look for patterns in the data and hope to come to conclusions with it. We will be using data found from credible sources and plugging them into Tablaeu to create the visualizations. 
 
-
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
-
-YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
-
 ---
 
 ## Historical Background
