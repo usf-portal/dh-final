@@ -1,19 +1,18 @@
 # Analysis
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
-
-If you want to add an image you can do it like this....
-
 ![Example Image]({{ site.baseurl }}/assets/images/Pre WWII Immigration.png
 
 ![Example Image]({{ site.baseurl }}/assets/images/Area Chart Laws.png
 
 ![Example Image]({{ site.baseurl }}/assets/images/Major Events that effected Immigration.png
 
-Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
+We are having problems with switching the axis in excel, so we were trying to find ways to flip it and make the graph easier on us to upload on tableau. Because the way tableau is with grouping we are having problems with it if the graph was not flipped making the year switched to the side. With the help of the group and Professor Thomas we were able to flip the information in Excel. Professor Thomas helped by showing me how to flip the information in excel by just copying the Data and selecting paste special then press transpose. That is how Professor Thomas helped teach me this method that helped solve this major problem that my group had that would mess up our visualizations. My Group members helped by searching a method before Professor Thomas helped us out with Excel. We also did not find any more problems that we encountered throughout the project so the data in excel would be the only problem everything else was not that hard or bad to get through. We found out that some events did have an effect on immigration in the United States. From Laws, and Major events in world history starting from 1825. A Major event that caused a huge drop of immigration to the United States is World War II. Are graph showed that the U.S. were strict about Immigrations during Both World War I and World War II. With both wars it showed a huge decline in immigration mostly heading towards World War II. I would think the reason for the decline of migration to the United States would be because of National Security since they are at war with many countries from Europe and Asia during WWII. In a Visualization that I made about major events and wars that would cause big changes in immigrations, there was also a major growth in migration to the United Sates by Europeans during 1850’s and a cause would be the Irish Potato famine. Another major event that happened that caused immigration to spike would be Angell Treaty of 1880 that caused the Asian migrants spike really high. Another Visualization I made was about laws that were passed that would have had an effect towards immigration. For example, there was a decline of immigration after the 1917 Immigration Act was passed which showed that during that time there was a strict immigration policy in the United States.
 
-If your project was less visualization-centric, this is where you at least explain in plain words what you learned through the process of non-visual analysis. For example, if you used text mining not for visualization purposes, but to help you manually find interesting threads of conversation in a body of documents.
 
-You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you. As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
 
-You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
+
+
+
+
+
+
