@@ -13,7 +13,7 @@ ProCon.Org. 2017. "Historical Timeline: History of Legal and Illegal Immigration
 Krammer, Jerry. "Immigration: Since the 1965 Immigration Act." Encyclopedia of Religion in America, September 30, 2015. doi:10.4135/9781608712427.n167.https://cis.org/Report/HartCeller-Immigration-Act-1965
 
 5.
-Schneider, Dorothee. "Naturalization and United States Citizenship in Two Periods of Mass Migration: 1894-1930, 1965-2000." Journal of American Ethnic History 21, no. 1 (2001): 50-82. http://www.jstor.org.ezproxy.lib.usf.edu/stable/27502779.
+Quinn, Michael. "Why People Migrate: 11 Surprising Reasons." Global Citizen. Accessed July 30, 2019. https://www.globalcitizen.org/en/content/why-people-migrate-11-surprising-reasons/.
 
 6.
 "Migration Data." Migration Data Portal. Accessed July 12, 2019. https://migrationdataportal.org/data?i=stock_abs_&t=2017.
@@ -26,3 +26,12 @@ Cohn, D’Vera, and D’Vera Cohn. "How U.S. Immigration Laws and Rules Have Cha
 
 9.
 Policy, Migration. 2013. "Major U.S. Immigration Laws, 1790 - Present." January 23. https://www.migrationpolicy.org/research/timeline-1790
+
+10.
+Rubin, Ernest. "The Demography of Immigration to the United States." The Annals of the American Academy of Political and Social Science 367 (1966): 15-22. http://www.jstor.org/stable/1034839.
+
+11.
+Aguila, Emma, Alisher R. Akhmedjonov, Ricardo Basurto-Davila, Krishna B. Kumar, Sarah Kups, and Howard J. Shatz. "Causes of Migration from Mexico to the United States." In United States and Mexico: Ties That Bind, Issues That Divide, 37-48. Santa Monica, CA; Arlington, VA; Pittsburgh, PA: RAND Corporation, 2012. http://www.jstor.org/stable/10.7249/mg985rc.15.
+
+12.
+Liskofsky, Sidney. "United States Immigration Policy." The American Jewish Year Book 67 (1966): 164-75. http://www.jstor.org/stable/23604995.
