@@ -128,3 +128,11 @@ text into images that were easy to understand.
 
 ---
 
+# **Project Background**
+
+Throughout the research process you are required to utalize a few skills in order to fully develop your thesis. One of many skills in the research process is data mining. This a series of data gathering that should be use in your research project to further support or null your hypothesis. In this case we used data previously scraped from the Slave Voyages database. To further our claim we searched the university database, and JSTOR to find sources that can link the Slave Voyages database and pirates. 
+
+**Orange3**
+
+**Orange3** is a user friendly program that is used to implement another skill in which is required to fully develop a functioning research project. Text anaylsis is a skill that many people use and not fully understand that they are using it. Simply, text anaylsis is the deep understanding on how sources link togeather. **Orange3** simplifies this process by determining constants within different sources. 
+1. Open **Orange3** from the desktop app.
