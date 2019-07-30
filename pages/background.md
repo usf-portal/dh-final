@@ -7,7 +7,7 @@ The Triangular trade was by far one of the worlds most important trade route. Th
 
 ---
 
-![image1]({{ site.baseurl }}/assets/images/background picture.png)
+![image1]({{ site.baseurl }}/assets/images/background picture.jpg)
 
 ## Historical Background
 
