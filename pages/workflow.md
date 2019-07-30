@@ -1,3 +1,5 @@
+{% include nav.html %} {% include css.html %}
+
 # Workflow
 
 More than a simple 'workflow', this should essentially be a **tutorial** to your reader how to do exactly what you did (whether or not the results were great). Remember: I am not your audience... nor are only DH specialists. The internet is your audience.
