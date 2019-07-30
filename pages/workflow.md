@@ -141,22 +141,22 @@ Throughout the research process you are required to utalize a few skills in orde
 
 2. Select the **corpus** in the text mining catagory. Upload the file. For this demonstration we are going to use the data scraped by **Webscraper.IO** off the slave voyage database.
 
-![image]({{ site.baseurl}}/assets/Orange3-2.JPG)
+![image]({{ site.baseurl}}/assets/images/Orange3-2.JPG)
 
 3. Next, place down a **corpus viewer** to make sure that the **corpus** pulled in the correct data.
 
-![image]({{ site.baseurl}}/assets/Orange3-3.JPG)
+![image]({{ site.baseurl}}/assets/images/Orange3-3.JPG)
 
 4.Once, you have made sure that the correct data has been pulled; drop down a **bag of word**. This application will sort through your data and pick out words that show up in frequency. 
 
-![image]({{ site.baseurl}}/assets/Orange3-4.JPG)
+![image]({{ site.baseurl}}/assets/images/Orange3-4.JPG)
 
 5. After the **bag of words** is placed drop down a **word cloud**.
 
-![image]({{ site.baseurl}}/assets/Orange3-5.JPG)
+![image]({{ site.baseurl}}/assets/images/Orange3-5.JPG)
 
 Once you place down **word cloud** you are able to see the like words in which appear over the document. The larger the word and the closer the word is to the center of the cloud; the more frequent the word is used throughout the document.
 
-![image]({{ site.baseurl}}/assets/word-cloud.png)
+![image]({{ site.baseurl}}/assets/images/word-cloud.png)
 
 From the visualization above we can conclude that through all of the slave voyages gathered in the dataset, the majority of the voyages are Spanish in nature. Many words that show up frequently have ties to the Spanish government. This discovery does not falter away very far from popular history on the international slave trade. There was no secret that that the trans Atlantic slave trade was primarily dominated by the Spanish and the English. 
