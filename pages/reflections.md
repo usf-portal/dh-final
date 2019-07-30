@@ -1,3 +1,5 @@
+{% include nav.html %} {% include css.html %}
+
 # Reflections
 
 ![imager1]({{ site.baseurl }}/assets/images/Jolly-Roger-3.jpg)
