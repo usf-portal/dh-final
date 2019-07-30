@@ -137,7 +137,7 @@ Throughout the research process you are required to utalize a few skills in orde
 **Orange3** is a user friendly program that is used to implement another skill in which is required to fully develop a functioning research project. Text anaylsis is a skill that many people use and not fully understand that they are using it. Simply, text anaylsis is the deep understanding on how sources link togeather. **Orange3** simplifies this process by determining constants within different sources. 
 1. Open **Orange3** from the desktop app.
 
-![image]({{ site.baseurl}}/assets/Orange3-1.JPG)
+![image]({{ site.baseurl}}/assets/images/Orange3-1.JPG)
 
 2. Select the **corpus** in the text mining catagory. Upload the file. For this demonstration we are going to use the data scraped by **Webscraper.IO** off the slave voyage database.
 
