@@ -6,7 +6,7 @@
  today that owes its existence primarily to the phenomenon of
  immigration" - Ernest Rubin
  
-Our project will look at immigration into the United States. We will look at the major countries that have come to the United States and use data visualization to analyze trends in relation to major world events and immigration laws. The project will look for patterns in the data and hope to come to conclusions with it. We will be using data found from credible sources and plugging them into Tablaeu to create the visualizations. 
+Our project will look at immigration into the United States. We will look at the major countries that have come to the United States and use data visualization to analyze trends in relation to major world events and immigration laws. The project will look at immigration laws and world events to see patterns or trends in the data and hope to come to conclusions with it. We will be using data found from credible sources and plugging them into Tablaeu to create the visualizations. 
 
 
 
