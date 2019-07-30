@@ -1,6 +1,6 @@
 # Reflections
 
-![imager1]({{ site.baseurl }}/assets/images/Jolly-Roger-3.jpg
+![imager1]({{ site.baseurl }}/assets/images/Jolly-Roger-3.jpg)
 
 Project Closing, 
 
