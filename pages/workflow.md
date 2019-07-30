@@ -1,7 +1,5 @@
 # Workflow
 
-Discuss (in detail) the processes of
-
 * First I started by getting the Data from the website metrocosm.com which had an excel sheet that had all of the immigration Data that we needed which was from 1825-2017.
 * I then started to alter the excel sheet by flipping it to make it work for Tableau to make the visualizations.
 * I then made three visualizations which I used area charts for all of them which helped show the results of our data clearer.
