@@ -2,7 +2,13 @@
 
 ![Immigration](https://github.com/Michaelrappa/usa-migration/blob/master/assets/images/Opendomainimmigrationpic.jpg)
 ---
+> "The United States is the only major world power
+ today that owes its existence primarily to the phenomenon of
+ immigration" - Ernest Rubin
+ 
 Our project will look at immigration into the United States. We will look at the major countries that have come to the United States and use data visualization to analyze trends in relation to major world events and immigration laws. The project will look for patterns in the data and hope to come to conclusions with it. We will be using data found from credible sources and plugging them into Tablaeu to create the visualizations. 
+
+
 
 ---
 
@@ -22,6 +28,5 @@ A large basis for this project was to look at how immigration laws affected the 
 
 ---
 
-
-
+Finally, we looked at worldwide events that caused pattern shifts and trends in the visuals. With major causes of immigration coming from war, economy shifts, and family. Rubin covers a great deal of immigration between major wars that the United States was involved in. Rubin's data sheets all point out the demographs of immigrants during these times were to no one's surprise: white males. He points out the cause for immigration up until the First World War was due to increading demand for unskilled labor as we progressed through and beyond the Industrial Revolution. As other data also suggests, Rubin notes that immigration came to a crawl between the two World Wars due to the conflicts in addition to new quotas in immigration. It is only after the wars that we see a trend in the demographic. Up until the Hart-Celler Act of 1965, the United States saw a majority of women come into the states. This makes sense considering the fighting force for every nation were all young males during these periods of war. Other events that lined up with immigration laws seemed to also be the rising trend of civil war's in Central and Latin America. These wars with our data from Migration Policy Institute follow trends with increased immigration from the continent as more and more civil wars from such countries as Guatemala, Honduras, and El Salvador occur. In conclusion, we were able to find compelling arguments throughout sources such as JSTOR, credible websites, and government databases to support our own conclusions. 
 
