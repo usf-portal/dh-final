@@ -5,7 +5,7 @@
 
 ![Home Image]({{ site.baseurl }}/assets/images/Wager's_Action_off_Cartagena,_28_May_1708.jpg)
 
-## Pirate interactions on the Slave Economy 
+## Pirate Interactions on the Slave Economy 
 ---
 
    The transatlantic slave trade, also known as triangle trade, was a product of the colonization and expansion of imperialistic European nations searching for new economic opportunities in the Americas. In most cases, goods would be shipped from Europe to Africa, slaves from Africa to the Americas, and goods from the Americas back to Europe, thus completing the triangle of trade. However, long slave voyages sometimes encountered problems associated with piracy. 
