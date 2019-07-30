@@ -7,6 +7,8 @@ The Triangular trade was by far one of the worlds most important trade route. Th
 
 ---
 
+![image1]({{ site.baseurl }}/assets/images/background picture.jpg)
+
 ## Historical Background
 
 Although the history of piracy is often considered small than that of the Trans-Atlantic triangular trade, the social and cultural implications of piracy shaped many of today’s understanding of pirates and their impact on the triangular trade economically. However, historians that study piracy today often study the understanding of pirates in regard to social and cultural movements. In the mid-to-late- 1900s new cultural waves of understanding clouded academia and led to some of the worlds most influential writers of pirate history. Historians of the social turn inspired by new movements for civil rights and women’s rights, formulate new lenses to view events in the past.
