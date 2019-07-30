@@ -1,18 +1,10 @@
 # Workflow
 
-Describe your overall workflow here. Think of this as something like when a scientific paper describes their process. The idea is *repeatability*. People need to know how they can get a copy of the data. If you chopped up the data, altered it, or joined it with other data sets they need to know that too.
-
 Discuss (in detail) the processes of
 
-* Getting the data
-* Cleaning/altering the data
-* Visualizing the data
-* Discussing and sharing results with group members
+* First I started by getting the Data from the website metrocosm.com which had an excel sheet that had all of the immigration Data that we needed which was from 1825-2017.
+* I then started to alter the excel sheet by flipping it to make it work for Tableau to make the visualizations.
+* I then made three visualizations which I used area charts for all of them which helped show the results of our data clearer.
+* As soon as I finished making my visualizations the data showed the increases and decreases of migrations to the United States then I showed my group the visualizatiuons and we got to see the results.
 
-What you need to cover: Talk about every step in your process, talk about how and why you made the decisions that you did. Why did you pick the website that you did? Did you download every record, or just some? Did you download the data directly from the website, or did you use a tool like Webscraper.io? Did you use OpenRefine to change the raw data in some form, and if so, why did you change it the way you did? What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
-
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
-
-Take plenty of screenshots to document your process...
-    * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
-    * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
+We were lucky enough that we had a source that we did not have to scrape for any data since we already had the data. The source that we had was metrocosm.com which had an excel spread sheet. We had to fix the excel sheet up and then we had to flip the information so it can be readable to Tableau. After that with that information from the data I was able to make three visualizations. The first visualization being the main visualization on immigration from 19th century until 21st century which had some laws that effected immigration throughout the timeline. For example, there was a drop of immigration during the 1917 immigration act, which then the drop kept decreasing from 1917 until events leading to WWII. There was also the 1953 Refugee Relief Act which showed from the graph that little by little throughout decades’ immigrations started to Increase tremendously. The Visualization showed the major shifts of migration to the United States starting from the year 1825, which showed the cause being United States Laws. The second visualization is about immigration Pre-World War II by European nations. The Visualization showed that migration was decreasing by a huge margin leading to World War II which makes sense since Wars against other nations would cause some National security concerns. It first started dropping from the events of World War I but then closer to the second World War there was stricter immigration policies. The last visualization was on wars and events that effected immigration. There was a big growth during 1880 from Asians because of the Angell Treaty of 1880 which helped the growth of Asian migration during the late 1800’s. The Visualization showed that some sort of growth of Immigration during the American Civil War which would mean that the United States would use some of the Immigrations to fight for citizenships and help them start a new life. This Visualizations showed the increase and decrease of immigrants throughout the years from major events and wars that would cause such drastic chances of immigration.
