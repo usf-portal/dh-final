@@ -1,3 +1,5 @@
+{% include nav.html %} {% include css.html %}
+
 # Credits
 
 ---
