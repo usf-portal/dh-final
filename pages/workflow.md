@@ -17,7 +17,7 @@ will also be demonstrated.
 
 Palladio
 
-1. The information generated using **Webscraper.io** proved data in 
+1. The information generated from **slavevoyages.org** provided data in 
 	Excel format. This allowed the image to be understood in a more plan 
 	manner and edited to better fit the needs of the project. 
 2. After organizing the data and ensuring the information in the Excel 
