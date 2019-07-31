@@ -1,10 +1,6 @@
 {% include nav.html %} {% include css.html %}
 
 # Workflow
-
-
-
-# **Visualization**
 	
 The information used for the visualization was gathered by using 
 the data provided by **www.slavevoyages.org** and after a bit of clean up that allowed the generated 
