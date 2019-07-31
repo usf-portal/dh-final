@@ -7,15 +7,15 @@ Due to time and skill restraints, we unfortunately were not able to push this to
 
 ---
 
-_Gathering more data:_ 
+* _Gathering more data:_ 
 
    The simple fact of a project like this is that we were at the mercy of the data. Essentially, with our limited time and developing skills, we could not undertake a huge data gathering endeavor, meaning that our scope was restricted to the data that was already out there. Had those limitations not been in place, we would have spent more time digging into the data to get the most complete figures possible. This ties into compiling multiple data sources. The dataset we primarily used had data from each decade rather than each year. That data resolution was sufficient for the scope of our project, but for more intimate conclusions to be drawn, more intricate and complete data would be required. This would mean doing something wholly out of our wheelhouse by taking multiple datasets and compiling them to fill each other’s gaps. Had our own skills in this arena not been a factor, compiling datasets would be a necessary next step for deeper conclusions to be worked towards. This, of all the things that could be done, would be the most useful and necessary step moving forward with this, not just for this project, but for posterity on the subject as well.
 
-_Delving deeper into historical and political literature surrounding critical bills and events affecting immigration:_
+* _Delving deeper into historical and political literature surrounding critical bills and events affecting immigration:_
 
    While each of us as students of history have the skills to take deep dives into historical literature, we certainly did not have the time to do so. The number of topics encompassed within this project had enough material to write multiple dissertations on. As such, our historical writing on the project had to be kept to the headline bullet points in a somewhat simplistic cause and effect way. This was sufficient for our purposes but, as with data compilation, more detailed historical context for the changes in immigration would be required to gain more insight into this topic.
 
-_Lastly, more diverse modes of visualization:_ 
+* _Lastly, more diverse modes of visualization:_ 
 
    Our project utilized area charts to display the changing immigration data: a perfect medium for conveying the type of data we had. Although I believe the area chart to be optimal for conveying immigration data, it is limited in its accessibility and visceral understanding. Additional graphing types, such as a map over time, could provide a far more intuitive medium for the casual observer. Having a map as part of our graph suite was our initial intention, however we were unable to do so due to a limitation with the data formatting making it impossibly tedious. Had we had more time, and better compiled data, we would be able to create more diverse visualizations to increase the overall polish and accessibility of the project.
 
