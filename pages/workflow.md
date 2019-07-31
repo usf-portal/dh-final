@@ -7,7 +7,7 @@ the data provided by **www.slavevoyages.org** and after a bit of clean up that a
 data to work with other programs the workflow became more manageable. 
 
 Below are the steps taken that will demonstrate how the information generated
-by **Webscraper.io** was used in the site **Palladio** and the results the 
+by **slavevoyages.org** database was used in the site **Palladio** and the results the 
 information visually generated. Farther down the steps for how **Tableau** 
 will also be demonstrated. 
 
