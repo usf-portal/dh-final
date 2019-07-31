@@ -1,5 +1,4 @@
 # Historical Immigration to the United States
-{% include css.html %}
 
 
 ![Title Image](assets/images/intro-image.png)
