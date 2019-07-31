@@ -12,4 +12,4 @@ With that in mind, the purpose of this project is to explore immigration to the 
 ---
 
 
-(/usa-migration/pages/analysis.md)
+[Analysis](/usa-migration/pages/analysis.md)
