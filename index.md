@@ -1,4 +1,4 @@
-# Historical Immigration to the United States
+# [Historical Immigration to the United States](https://michaelrappa.github.io/usa-migration/)
 
 
 ![Title Image](assets/images/intro-image.png)
