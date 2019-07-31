@@ -1,4 +1,5 @@
 title: Historical Immigration to the United States
+description: A Digital Humanities Project
 plugins:
   - jekyll-relative-links
 relative_links:
