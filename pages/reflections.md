@@ -25,4 +25,5 @@ Lines of inquiry that came up for us that we lacked the ability to resolve was l
 * Overall demographic shift in the nation
 * Immigration and crime
 * Immigration and economy
+
 I have stopped here, but the list goes on ad infinitum as immigration is integrally tied with the national events of the United States. Use your imagination!
