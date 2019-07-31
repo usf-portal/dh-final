@@ -11,5 +11,10 @@ With that in mind, the purpose of this project is to explore immigration to the 
 
 ---
 
-
 [Analysis](/pages/analysis.md)
+[Background](/pages/background.md)
+[Reflections](/pages/reflections.md)
+[Workflow](/pages/workflow.md)
+[Credits](/pages/credits.md)
+[Bibliography](/pages/bibliography.md)
+[Sources](/pages/sources.md)
