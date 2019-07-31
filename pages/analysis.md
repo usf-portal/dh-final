@@ -2,7 +2,7 @@
 
 ![In this image it shows the inflow of migrations from Europe from the year 1825 until 1935 to show how immigration started to decrease going into the United States Pre World War II.]({{ site.baseurl }}/assets/images/Pre WWII Immigration.png)
 
-![In this image it shows five major laws which are 1790 Naturalization Act, 1917 Immigration Act, 1953 Refugee Relief Act, 1965 Hart Celler Act, and 1990 immigration Act. All which have had a big effect to global migration to the United States.]({{ site.baseurl }}/assets/images/Area Chart Laws.png)
+![In this image it shows five major laws which are 1790 Naturalization Act, 1917 Immigration Act, 1953 Refugee Relief Act, 1965 Hart Celler Act, and 1990 immigration Act. All which have had a big effect to global migration to the United States.]({{ site.baseurl }}/assets/images/Laws.png)
 
 ![In this image it shows Wars and events that have effected migrations to the United States. The wars and events are California Gold Rush, Irish Potato Famine, U.S. Civil War, Unification of Germany, Angell Treaty of 1880, World War I, World War II, Guatamela Civil War, Honduras Wars & Curruption, and El Salvadorean Civil War. All which had caused an increase or a decrease of migration to the U.S.]({{ site.baseurl }}/assets/images/Major Events That Affected Immigration.png)
 
