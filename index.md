@@ -1,9 +1,3 @@
-# [Historical Immigration to the United States](https://michaelrappa.github.io/usa-migration/)
-
-
-![Title Image](assets/images/intro-image.png)
-
-
 [Analysis](/pages/analysis.md) |
 [Background](/pages/background.md) |
 [Reflections](/pages/reflections.md) |
@@ -13,6 +7,14 @@
 [Sources](/pages/sources.md)
 
 ---
+
+# [Historical Immigration to the United States](https://michaelrappa.github.io/usa-migration/)
+
+
+![Title Image](assets/images/intro-image.png)
+
+
+
 
 Immigration plays a critical role in American society and is a topic which is no more relevant today with our own immigration debate than it was in the early days of the republic. It is inevitable when studying the course of US history to come across the topic of immigration. Therefore, it is extremely important to explore the intricacies of the US immigration due to its frequency and gravity. 
 
