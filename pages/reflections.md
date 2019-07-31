@@ -21,7 +21,7 @@ Due to time and skill restraints, we unfortunately were not able to push this to
 
 ---
 
-   I think the strength of our project lies in our bread and butter area chart. Our visualizations clearly and accurately showcase the macro situation with immigration and can give a solid idea about the history of US immigration at a glance. I had a vision of those graphs when we first undertook this project, and they turned out just as I had anticipated them to. Frankly, I could not be happier with how they turned out, and I think that we built upon that graph nicely by overlaying world events and legislation that impacted immigration the US.
+   I think the strength of our project lies in our bread and butter area chart. Our visualizations clearly and accurately showcase the macro situation with immigration and can give a solid idea about the history of US immigration at a glance. I had a vision of those graphs when we first undertook this project, and they turned out just as I had anticipated them to. Frankly, I could not be happier with how they turned out, and I think that we built upon that graph nicely by overlaying world events and legislation that impacted immigration to the US.
 				
 Lines of inquiry that came up for us that we lacked the ability to resolve were legion, for they were many:
 * Internal immigration within the US state by state
