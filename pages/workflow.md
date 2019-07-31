@@ -24,7 +24,7 @@ Palladio
 	format is what will be needed for visualization, the locations of each 
 	port and/or region had to be located. By using Longitude and Latitude 
 	finder with the help of  Google Earth most of the coordinates were located 
-	for the project with the information provided from **Webscraper.io**. 
+	for the project with the information provided from **slavevoyages.org**. 
 	Note: this method was a one by one location finder method and does take time. 
 3. Once the coordinates were inputted into Excel they were combined into one 
 	column. For **Palladio** <span style="color:red">Coordinates are read in one 
