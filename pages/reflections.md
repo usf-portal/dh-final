@@ -1,6 +1,6 @@
 # Reflections
 
-Due to time and skill restraints, we unfortunately were not able to push this topic to the furthest possible conclusions. Had these factors not been in place, the following is what we would have done to supplement our work:
+Our project was overall a success, however due to time and skill restraints, we unfortunately were not able to push this topic to the furthest possible conclusions. Had these factors not been in place, the following is what we would have done to supplement our work:
 * Gathering more data/ Compiling multiple data sources
 * Delving deeper into historical and political literature surrounding critical bills and events affecting immigration.
 * More diverse modes of visualization
