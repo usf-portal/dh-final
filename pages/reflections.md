@@ -1,11 +1,11 @@
 [Home](https://michaelrappa.github.io/usa-migration/) |
-[Analysis](/pages/analysis.md) |
-[Background](/pages/background.md) |
-[Reflections](/pages/reflections.md) |
-[Workflow](/pages/workflow.md) |
-[Credits](/pages/credits.md) |
-[Bibliography](/pages/bibliography.md) |
-[Sources](/pages/sources.md)
+[Analysis](https://michaelrappa.github.io/usa-migration/pages/analysis.md) |
+[Background](https://michaelrappa.github.io/usa-migration/pages/background.md) |
+[Reflections](https://michaelrappa.github.io/usa-migration/pages/reflections.md) |
+[Workflow](https://michaelrappa.github.io/usa-migration/pages/workflow.md) |
+[Credits](https://michaelrappa.github.io/usa-migration/pages/credits.md) |
+[Bibliography](https://michaelrappa.github.io/usa-migration/pages/bibliography.md) |
+[Sources](https://michaelrappa.github.io/usa-migration/pages/sources.md)
 
 
 
