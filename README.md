@@ -11,7 +11,7 @@
 
 # Historical Immigration to the United States
 
-![US Immigration](assets/images/Immigration Records.png)
+![US Immigration](assets/images/Immigration-Records.png)
 
 
 
