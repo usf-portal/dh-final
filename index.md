@@ -9,7 +9,7 @@
 
 ---
 
-# [Historical Immigration to the United States](https://michaelrappa.github.io/usa-migration/)
+# Historical Immigration to the United States
 
 
 ![USA Immigration](assets/images/Immigration-Records.png)
