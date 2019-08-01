@@ -11,7 +11,7 @@
 
 # Project Background
 
-![Immigration](https://github.com/Michaelrappa/usa-migration/blob/master/assets/images/Opendomainimmigrationpic.jpg)
+![Immigration](assets/images/Opendomainimmigrationpic.jpg)
 ---
 > "The United States is the only major world power
  today that owes its existence primarily to the phenomenon of
