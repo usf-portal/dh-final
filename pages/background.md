@@ -11,7 +11,8 @@
 
 # Project Background
 
-({{ site.baseurl }}/assets/images/Opendomainimmigrationpic.jpg)
+![Immigration]({{ site.baseurl }}/assets/images/Opendomainimmigrationpic.jpg)
+
 
 ---
 > "The United States is the only major world power
