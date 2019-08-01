@@ -1,4 +1,15 @@
-# Faris's Workflow
+[Home](https://michaelrappa.github.io/usa-migration/) |
+[Analysis](/pages/analysis.md) |
+[Background](/pages/background.md) |
+[Reflections](/pages/reflections.md) |
+[Workflow](/pages/workflow.md) |
+[Credits](/pages/credits.md) |
+[Bibliography](/pages/bibliography.md) |
+[Sources](/pages/sources.md)
+
+
+
+# Data processing Workflow
 
 * First I started by getting the Data from the website metrocosm.com which had an excel sheet that had all of the immigration Data that we needed which was from 1825-2017.
 * I then started to alter the excel sheet by flipping it to make it work for Tableau to make the visualizations.
