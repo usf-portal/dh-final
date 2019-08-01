@@ -11,7 +11,8 @@
 
 # Project Background
 
-![Immigration](assets/images/Opendomainimmigrationpic.jpg)
+({{ site.baseurl }}/assets/images/Opendomainimmigrationpic.jpg)
+
 ---
 > "The United States is the only major world power
  today that owes its existence primarily to the phenomenon of
