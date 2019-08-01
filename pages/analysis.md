@@ -14,7 +14,7 @@
 
 This image shows the inflow of immigration to the USA from Europe from the years between 1825 and 1935, showing the diverse tapestry of imigrants from European nations. It also demonstrates that immigration started to decrease in the lead up to World War II becasuse of the economic downturn experiences at that time.
 
-![In this image it shows five major laws which are 1790 Naturalization Act, 1917 Immigration Act, 1953 Refugee Relief Act, 1965 Hart Celler Act, and 1990 immigration Act. All which have had a big effect to global migration to the United States.]({{ site.baseurl }}/assets/images/Laws.png)
+![In this image it shows five major laws which are 1790 Naturalization Act, 1917 Immigration Act, 1953 Refugee Relief Act, 1965 Hart Celler Act, and 1990 immigration Act. All which have had a big effect to global migration to the United States.]({{ site.baseurl }}/assets/images/Immigration Laws.png)
 
 This image shows five major laws influencing immigration to the USA which include the 1790 Naturalization Act, the 1917 Immigration Act, the 1953 Refugee Relief Act, the 1965 Hart Celler Act, and the 1990 immigration Act. Each of these laws had a demonstrable effect on imigration the the United States. 
 
