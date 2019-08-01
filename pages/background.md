@@ -1,3 +1,14 @@
+[Home](https://michaelrappa.github.io/usa-migration/) |
+[Analysis](/pages/analysis.md) |
+[Background](/pages/background.md) |
+[Reflections](/pages/reflections.md) |
+[Workflow](/pages/workflow.md) |
+[Credits](/pages/credits.md) |
+[Bibliography](/pages/bibliography.md) |
+[Sources](/pages/sources.md)
+
+
+
 # Project Background
 
 ![Immigration](https://github.com/Michaelrappa/usa-migration/blob/master/assets/images/Opendomainimmigrationpic.jpg)
