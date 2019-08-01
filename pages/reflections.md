@@ -1,3 +1,14 @@
+[Home](https://michaelrappa.github.io/usa-migration/) |
+[Analysis](/pages/analysis.md) |
+[Background](/pages/background.md) |
+[Reflections](/pages/reflections.md) |
+[Workflow](/pages/workflow.md) |
+[Credits](/pages/credits.md) |
+[Bibliography](/pages/bibliography.md) |
+[Sources](/pages/sources.md)
+
+
+
 # Reflections
 
 Our project was overall a success, however due to time and skill restraints, we unfortunately were not able to push this topic to the furthest possible conclusions. Had these factors not been in place, the following is what we would have done to supplement our work:
