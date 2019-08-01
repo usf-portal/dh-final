@@ -9,7 +9,7 @@
 
 ---
 
-# Historical Immigration to the United States
+# Introduction
 
 Immigration plays a critical role in American society. As a topic, it is no more relevant today with our own immigration debate than it was in the early days of the republic. It is nigh inevitable when studying the course of US history to engage with immigration, no matter the area of study. With that in mind, it is extremely important to explore the intricacies of the US immigration due to its frequency and gravity. 
 
