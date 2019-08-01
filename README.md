@@ -1,4 +1,4 @@
-[Home](https://michaelrappa.github.io/usa-migration/)
+[Home](https://michaelrappa.github.io/usa-migration/) |
 [Analysis](/pages/analysis.md) |
 [Background](/pages/background.md) |
 [Reflections](/pages/reflections.md) |
