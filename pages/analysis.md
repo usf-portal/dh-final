@@ -1,3 +1,14 @@
+[Home](https://michaelrappa.github.io/usa-migration/) |
+[Analysis](/pages/analysis.md) |
+[Background](/pages/background.md) |
+[Reflections](/pages/reflections.md) |
+[Workflow](/pages/workflow.md) |
+[Credits](/pages/credits.md) |
+[Bibliography](/pages/bibliography.md) |
+[Sources](/pages/sources.md)
+
+
+
 # Analysis
 
 ![In this image it shows the inflow of migrations from Europe from the year 1825 until 1935 to show how immigration started to decrease going into the United States Pre World War II.]({{ site.baseurl }}/assets/images/Pre WWII Immigration.png)
