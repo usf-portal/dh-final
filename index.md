@@ -12,7 +12,7 @@
 # [Historical Immigration to the United States](https://michaelrappa.github.io/usa-migration/)
 
 
-![Title Image](assets/images/intro-image.png)
+![USA Immigration](assets/images/Immigration Records.png)
 
 
 
