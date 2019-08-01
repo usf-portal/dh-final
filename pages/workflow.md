@@ -24,7 +24,7 @@ The Visualization showed that some sort of growth of Immigration during the Amer
 
 ---
 
-# Tom's Work Flow
+# Research Work Flow
 
 As for my work flow, I was tasked on the historical and digital scholarship of the project. We as a group found the data for our project which left me with just the work on researching laws and reasons for immigration. I was having issues finding arguments about immigration law as some articles were too broad or just not fitting the narrative of the project. JSTOR's advanced search functions proved the most useful for looking up topics on the affects of laws on immigration. There was multiple journal articles with arguements for and against important laws. Other credible sources as annotated in the biliography, showcase affects as well on immigration. 
 
