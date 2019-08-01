@@ -1,3 +1,14 @@
+[Home](https://michaelrappa.github.io/usa-migration/) |
+[Analysis](/pages/analysis.md) |
+[Background](/pages/background.md) |
+[Reflections](/pages/reflections.md) |
+[Workflow](/pages/workflow.md) |
+[Credits](/pages/credits.md) |
+[Bibliography](/pages/bibliography.md) |
+[Sources](/pages/sources.md)
+
+
+
 # Bibliography
 
 1.
