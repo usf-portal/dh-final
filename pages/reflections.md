@@ -1,11 +1,15 @@
+{% include nav.html %} {% include css.html %}
+
 # Reflections
 
-This is sort of your final thoughts, a summary of the process of the project itself. By discussing where you hit roadblocks and where you wish you could go if you had more time, you leave future individuals something to build on.
+![imager1]({{ site.baseurl }}/assets/images/Jolly-Roger-3.jpg)
 
-You should talk about where you group encountered the most difficulties. What was the hardest about scraping, or visualizing, or locating historiography? Did you have problems communicating or sharing files on GitHub?
+## Project Closing, 
+---
+The journey of this project has been extremely insightful into the significance piracy played on the transatlantic slave trade. Starting with the initial hypothesis, that pirates had a significant presence in the slave trade, data was gathered for over 31,000 transatlantic voyages between 1699 and 1827. After the data was gathered it was then organized and processed into two visualization programs, Palladio and Tableau. The final results of the data based on the visualization lead to the conclusion that the original hypothesis for this project was incorrect and that pirates had very little significance on the transatlantic slave trade. However, due to time constraints, this project limited the scope of pirate interaction on transatlantic trade to just those interactions with slave voyages. To anyone interested in expanding on this project, there is still reason to believe that piracy played a significant part on transatlantic trade if data from every pirate encounter, no matter the cargo, was analyzed. 
 
-What problems stopped you dead in the water? Did you have to change course mid-project to account for data that you could not get, or was not what you thought?
+The scope of this project proved to have many difficulties. First the data provided little in the way of pirate interaction, with just over 100 out of over 31,000 voyages having any sort of pirate interactions. Furthermore, an attempt to understand the economic impact of piracy on the transatlantic slave trade lead to a null result by the fact that there were too many variables effecting the price of slaves, thus making it impossible to gage how much or a financial loss any particular voyage was the origin nation without historical records. 
 
-Moving on from problems, let's the reader on a positive note. What worked best, where did you think the strength of the project was? What were the most useful historical insights? What were the most useful tools?
+However, the use of visualization software allowed this project to understand why pirates did not have a significant presence in the slave trade. Moreover, the use of visualization software allowed this project the ability to compare voyages with and without pirate interaction side by side leading to an interesting conclusion that more than double the amount of slaves were lost at sea then captured and sold by pirates.
 
-Finally, think of future attempts to continue this line of research, whether by yourself or others. Where do you want to go with it. What areas do you think could be expanded easily? You can discuss what you wish you could have done but could not due to lack of time/skill/et.c. But, much more than that, what would you suggest would be the most useful thing(s) you think could actually be accomplished in the space of another semester?
+---

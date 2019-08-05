@@ -1,35 +1,28 @@
+{% include nav.html %} {% include css.html %}
+
 # Sources
 
-This is where your source analysis of any/all data should go. Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
-
-See the [README.md](../README.md) file for information on how to submit this assignment.
-
-**You SHOULD revise your source analysis if you already did one for the given website.**
----
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+* [https://www.slavevoyages.org/](https://www.slavevoyages.org/)
+* Database on the embarkation and debarkation of Trade routes in the Atlantic
+* National Endowment for the Humanities
 
 ---
 
 ## Authorship
 
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
+* The information gathered in the database in the combination of several years of independent and group collaboration mostly pulling resources from libraries and archives.
+* The choices in which the authors made in creating this database is well defined, and apparent. It is shown that the authors wanted to combine many different trade voyages across the Atlantic. 
+* The National Endowment for the Humanities set out to trace the geographic orgins of Africans transported through the Triangular Trade.
+* The National Endowment for the Humanities is a group who funds most of the humanities projects throughout the year. The National Endowment for the Humanities pride themselves on the "We the People" projects in order to show support to many projects studying American Culture.
 
 ---
 
 ## Data Analysis
 
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+* The datasets focus on the trade routes especially involved with the Triangular trade. In hopes to understand the movement of slaves into the new world.
+* The Database has very specific catagories that focus directly on the slaves rather than other goods transported. This does bode well for the clear preogative the authors are exploring. In this project we are primarily utalizing the catagory in which the authors place importance on the pirate involvement on the economics of the Slave trade.
+* The means of organization places a significance on the geolocation of the trade routes. 
+* The website provides many visualizations to convay the slave trade as a whole. The visualizations provide extra context in regards to the influx of slaves at certin time periods, and maps that sucessfully visualizes the routes of trade. 
